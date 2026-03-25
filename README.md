@@ -1,4 +1,4 @@
-# 💻 MIS Technical Portfolio | Java Applications in Business
+# MIS Technical Portfolio | Java Applications in Business
 **Author:** Mario Jones II  
 **Institution:** Prairie View A&M University  
 **Major:** Management Information Systems (MIS)
