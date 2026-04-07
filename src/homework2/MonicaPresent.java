@@ -2,9 +2,9 @@ package homework2;
 import java.util.Scanner;
 
 // Homework 2 
-// Purpose: Calculate cake packets, costs, and rebates
+// Purpose: Resource Optimization & Algorithmic Logic
 // Author: Mario Jones II
-// Date: April 7, 2026
+// Date: March 23, 2026
 
 public class MonicaPresent {
     public static void main(String[] args) {
