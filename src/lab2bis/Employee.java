@@ -1,5 +1,10 @@
 package lab2bis;
 
+// Homework 2 
+// Purpose: Foundations of Object-Oriented Financial Modeling
+// Author: Mario Jones II
+// Date: March 25, 2026
+
 public class Employee {
     // 1. Attributes [cite: 65, 66, 67, 68, 71]
     public String firstName;
