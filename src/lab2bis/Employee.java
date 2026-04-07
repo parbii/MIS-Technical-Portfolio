@@ -1,6 +1,6 @@
 package lab2bis;
 
-// Homework 2 
+// Lab #2Bis
 // Purpose: Foundations of Object-Oriented Financial Modeling
 // Author: Mario Jones II
 // Date: March 25, 2026
