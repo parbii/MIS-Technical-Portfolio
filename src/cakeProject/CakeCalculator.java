@@ -1,7 +1,7 @@
 package cakeProject; // MUST be the first line to avoid errors
 import java.util.Scanner;
 
-// Individual Term Project - Part 2
+// Individual Term Project - Part 1
 // Purpose: Calculate cake packets, costs, and rebates
 // Author: Mario Jones II
 // Date: April 7, 2026
