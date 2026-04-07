@@ -1,6 +1,11 @@
 package homework2;
 import java.util.Scanner;
 
+// Homework 2 
+// Purpose: Resource Optimization & Algorithmic Logic
+// Author: Mario Jones II
+// Date: March 23, 2026
+
 public class SharonGasTrip {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
