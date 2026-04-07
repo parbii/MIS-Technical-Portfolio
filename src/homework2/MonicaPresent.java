@@ -1,6 +1,11 @@
 package homework2;
 import java.util.Scanner;
 
+// Homework 2 
+// Purpose: Calculate cake packets, costs, and rebates
+// Author: Mario Jones II
+// Date: April 7, 2026
+
 public class MonicaPresent {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
