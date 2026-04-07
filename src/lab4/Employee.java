@@ -1,5 +1,10 @@
 package lab4;
 
+// Lab #4
+// Purpose: Tiered Payroll & Regulatory Compliance Engine
+// Author: Mario Jones II
+// Date: March 20, 2026
+
 public class Employee {
 // Attributes
 public double hoursWorked;
