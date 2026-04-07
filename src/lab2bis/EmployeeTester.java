@@ -1,6 +1,11 @@
 package lab2bis;
 import java.util.Scanner; // Required for keyboard input 
 
+// Lab #2Bis
+// Purpose: Foundations of Object-Oriented Financial Modeling
+// Author: Mario Jones II
+// Date: March 25, 2026
+
 public class EmployeeTester {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
