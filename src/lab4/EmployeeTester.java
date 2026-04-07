@@ -1,9 +1,10 @@
 package lab4;
 import java.util.Scanner; // Crucial to avoid red "X" [cite: 33]
 
-// Purpose: Compute Net Salary for Lab #4 
-// Author: Mario Jones II 
-// Date: March 17, 2026
+// Lab #4
+// Purpose: Tiered Payroll & Regulatory Compliance Engine
+// Author: Mario Jones II
+// Date: March 20, 2026
 
 public class EmployeeTester {
 	public static void main(String[] args) {
